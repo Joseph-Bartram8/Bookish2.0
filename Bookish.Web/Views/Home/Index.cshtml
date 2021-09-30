@@ -1,0 +1,23 @@
+﻿@using Bookish_dataAccess;
+@model IEnumerable<BookCopies>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Bookish</h1>
+    <p class="lead">Library Management tool for the the cool kids</p>
+</div>
+
+<div>
+    <h2>Books you have borrowed</h2>
+
+    @foreach (var copy in Model)
+    {
+        <p>
+            @Html.ActionLink(copy.Book.Title, "Details", "Catalogue", new { Id = copy.BookId }, null)
+            by copy.Book.Author - due back copy.DueDate.ToShortDateString()
+        </p>
+    }
+</div>

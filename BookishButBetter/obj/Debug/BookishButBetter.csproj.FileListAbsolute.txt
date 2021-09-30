@@ -1,0 +1,13 @@
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\bin\Debug\BookishButBetter.exe.config
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\bin\Debug\BookishButBetter.exe
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\bin\Debug\BookishButBetter.pdb
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\bin\Debug\Bookish_dataAccess.dll
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\bin\Debug\Dapper.dll
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\bin\Debug\Bookish_dataAccess.pdb
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\bin\Debug\Bookish_dataAccess.dll.config
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\bin\Debug\Dapper.xml
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\obj\Debug\BookishButBetter.csproj.AssemblyReference.cache
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\obj\Debug\BookishButBetter.csproj.CoreCompileInputs.cache
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\obj\Debug\BookishButBetter.csproj.CopyComplete
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\obj\Debug\BookishButBetter.exe
+C:\Users\josephb\OneDrive - UCAS\Documents\C# Programming\Bookish But Better\BookishButBetter\BookishButBetter\obj\Debug\BookishButBetter.pdb
